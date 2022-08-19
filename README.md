@@ -10,4 +10,6 @@ npm start
 **When done, go to your web browser and navigate to `localhost`.**
 
 --Modified by BGR2,not OG version!
+-- Use FlashPatcher to fix and use Chromium 87 or Chrome old ver. to run!
+
 
